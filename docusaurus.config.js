@@ -23,13 +23,13 @@ const config = {
   url: 'https://docudam.sytes.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docudamx/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'profe.dam2', // Usually your GitHub org/user name.
   projectName: 'docudamx', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
